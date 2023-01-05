@@ -42,3 +42,7 @@ Frontend will be up and running on port 3000. http://127.0.0.1:3000
 - **/api/task-create/** (Create new todo)
 - **/api/task-update/{todo-id}/** (Update existing todo)
 - **/api/task-delete/{todo-id}/** (Delete existing todo)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
